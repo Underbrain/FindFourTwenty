@@ -4,14 +4,14 @@ plugins {
 }
 
 android {
-    namespace = "com.underbrain.find-four-twenty"
+    namespace = "com.underbrain.find-four-twenty=now"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.underbrain.find-four-twenty"
+        applicationId = "com.underbrain.find-four-twenty-now"
         minSdk = 21
         targetSdk = 34
-        versionCode = 2
+        versionCode = 3
         versionName = "2.0"
     }
 
